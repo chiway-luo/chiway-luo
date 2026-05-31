@@ -21,21 +21,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 关于我
-
+---
 我是一名机器人工程专业学生，目前主要关注机器人系统开发、ROS2 技术栈、运动控制与灵巧手相关方向。
----
-
-## 🧭 当前学习方向
-
-- ROS2 机器人系统开发
-- 机器人运动控制与导航
-- 机器视觉与图像处理
-- 灵巧手结构设计与控制
-- 大模型 API 与机器人交互应用
-- 强化学习
-- 深度学习
-
----
 
 ## 📌 仓库介绍
 
@@ -46,7 +33,6 @@ Here are some ideas to get you started:
 [bidirectional_forwarding_audio](https://github.com/chiway-luo/bidirectional_forwarding_audio.git) 使用本地麦克风转发到远程服务器,实现远程调试与音频相关系统的解决方案
 
 [ssh-x11-forwarding-guide](https://github.com/chiway-luo/ssh-x11-forwarding-guide.git) 提供了 SSH X11 转发的使用指南，帮助用户在远程服务器上运行图形界面应用程序
-
 
 ---
 ## 📫 联系我
