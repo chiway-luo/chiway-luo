@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 # 👋 你好，我是 骆凯为
 
 > 机器人工程专业学生 | ROS2 / 机器人控制 / 机器视觉 / 灵巧手方向学习者  
-> 保持学习，持续进步。
+> 无限进步
 
 ---
 
 ## 🚀 关于我
 
 我是一名机器人工程专业学生，目前主要关注机器人系统开发、ROS2 技术栈、运动控制与灵巧手相关方向。
-
-
 ---
 
 ## 🧭 当前学习方向
@@ -39,66 +37,21 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠 技术栈
-
-### 编程语言
-
-- C / C++
-- Python
-
-
-### 机器人相关
-
-- ROS2 Humble
-- ROS1 Noetic
-- Nav2
-- MoveIt / MoveIt2
-- Gazebo / Ignition Gazebo
-- RViz2
-- TF / URDF / Xacro
-
-### 工程工具
-
-- Ubuntu / Linux
-- Git / GitHub
-- VS Code
-- Xlaunch / Nomachine
-
----
-
 ## 📌 仓库介绍
 
----
+[omnihand_mujoco_moveit2](https://github.com/chiway-luo/omnihand_mujoco_moveit2.git) 使用 MuJoCo 物理引擎和 MoveIt2 运动规划框架,开发了一个适用于 智元-Omnihand 灵巧手的仿真平台
+
+[ign_robot_dog](https://github.com/chiway-luo/ign_robot_dog.git) 使用ignition Gazebo仿真平台+champ算法开发了一个适配于宇树go2和智元d1的四足机器人仿真平台
+
+[bidirectional_forwarding_audio](https://github.com/chiway-luo/bidirectional_forwarding_audio.git) 使用本地麦克风转发到远程服务器,实现远程调试与音频相关系统的解决方案
+
+[ssh-x11-forwarding-guide](https://github.com/chiway-luo/ssh-x11-forwarding-guide.git) 提供了 SSH X11 转发的使用指南，帮助用户在远程服务器上运行图形界面应用程序
 
 
 ---
-
-## 📚 正在做的事情
-
-- 系统学习 ROS2 与机器人开发
-- 完善机器人项目文档与技术积累
-- 学习大模型 API 与机器人语音交互结合
-
----
-
-## 📈 GitHub 数据
-
-<!-- 可选：GitHub 统计卡片，需要将 username 改成你的 GitHub 用户名 -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiway-luo&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiway-luo&layout=compact)
-
----
-
 ## 📫 联系我
 
-- GitHub: [你的 GitHub 链接](https://github.com/你的GitHub用户名)
-- Email: your_email@example.com
-- Blog / Homepage: 暂无，可后续补充
+- Email: chiwayfpv@gmail.com
 
----
 
-## ✨ 一句话
 
-> 无限进步，不断把想法变成可运行的系统。
