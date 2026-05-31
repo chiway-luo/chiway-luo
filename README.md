@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 <!-- 可选：GitHub 统计卡片，需要将 username 改成你的 GitHub 用户名 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiway-luo&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiway-luo&layout=compact)
 
 ---
 
